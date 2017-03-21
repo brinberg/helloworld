@@ -1,2 +1,2 @@
 # hello world
-first GitHub project
+second GitHub project
